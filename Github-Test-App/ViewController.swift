@@ -8,6 +8,8 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    let textLabel = UILabel()
 
     override func viewDidLoad() {
         super.viewDidLoad()
