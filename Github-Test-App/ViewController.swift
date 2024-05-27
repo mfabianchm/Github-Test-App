@@ -15,6 +15,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         view.backgroundColor = .red
         
+        textLabel.text = "holaaa"
+        
     }
 
 
